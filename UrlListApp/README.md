@@ -1,5 +1,7 @@
 # UrlListApp
 
+Zaq now owns this 😈
+
 UrlListApp is an ASP.NET Core Razor Pages web application for creating, managing, and sharing lists of URLs. It is designed to help users organize collections of links and share them easily with others.
 
 ## Features
